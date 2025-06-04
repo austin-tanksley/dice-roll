@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0;
+    background-color: black;
+    font-family: sans-serif;
+}
+html,
+body
+{
+  overflow: hidden;
+  
+}
+.webGl
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+.rollbutton{
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    background-color: rgb(81, 69, 190);
+    border-radius: 24px;
+    padding: 12px 24px;
+    color: antiquewhite;
+    font-weight: 800;
+    letter-spacing: .1rem;
+    border: solid 2px white;
+    transition-duration: 400ms;
+}
+.rollbutton:hover{
+    background-color: rgb(131, 121, 221);
+    transition-duration: 800ms;
+}

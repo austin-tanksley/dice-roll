@@ -1,0 +1,19 @@
+{
+  "name": "dice-roll",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx vite dev",
+    "build": "npx vite build"
+  },
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "lil-gui": "^0.20.0",
+    "three": "^0.177.0"
+  }
+}
