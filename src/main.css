@@ -20,7 +20,7 @@ body
 
 .rollbutton{
     position: absolute;
-    top: 24px;
+    bottom: 24px;
     left: 24px;
     background-color: rgb(81, 69, 190);
     border-radius: 24px;
